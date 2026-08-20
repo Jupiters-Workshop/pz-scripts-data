@@ -7,17 +7,29 @@ parents:
 - entity
 ID:
   values:
-  - CraftRecipe
-  - SpriteConfig
-  - UiConfig
-  - CraftBench
-  - CraftBenchSounds
-  - Resources
-  - DryingCraftLogic
-  - SpriteOverlayConfig
+  - AttributeContainer
   - Durability
-  - FluidContainer
+  - DurabilityScript
   - ContextMenuConfig
+  - CraftBench
+  - CraftLogic
+  - CraftRecipe
+  - CraftRecipeComponent
+  - DryingCraftLogic
+  - DryingLogic
+  - FurnaceLogic
+  - MashingLogic
   - WallCoveringConfig
+  - FluidContainer
+  - LuaComponent
+  - Parts
+  - Resources
+  - EntityScriptInfo
+  - Signals
+  - CraftBenchSounds
+  - SpriteConfig
+  - SpriteOverlayConfig
+  - TestComponent
+  - UiConfig 
   asType: true
 parameters: []
